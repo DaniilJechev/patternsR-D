@@ -1,0 +1,20 @@
+.cursor/
+
+# Local Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and secrets
+.env
+.venv/
+venv/
+
+# Generated data and model artifacts
+*.pkl
+*.joblib
+*.json
+*.h5
+*.pt
+*.pth
+*.onnx
