@@ -4,6 +4,7 @@
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+tmp.md
 
 # Local environments and secrets
 .env
